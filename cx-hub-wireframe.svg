@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2800">
+  <!-- Background -->
+  <rect width="1200" height="2800" fill="#0D0D15"/>
+  
+  <!-- Header Section -->
+  <rect x="0" y="0" width="1200" height="60" fill="#1D1D28"/>
+  <text x="50" y="38" font-family="Arial" font-size="24" fill="#FFFFFF">cXentral Hub</text>
+  <!-- Navigation Menu -->
+  <text x="720" y="38" font-family="Arial" font-size="16" fill="#FFFFFF">Platform</text>
+  <text x="820" y="38" font-family="Arial" font-size="16" fill="#FFFFFF">Solutions</text>
+  <text x="920" y="38" font-family="Arial" font-size="16" fill="#FFFFFF">Resources</text>
+  <text x="1020" y="38" font-family="Arial" font-size="16" fill="#FFFFFF">About</text>
+  <rect x="1100" y="20" width="80" height="30" rx="15" fill="#2358E9"/>
+  <text x="1115" y="40" font-family="Arial" font-size="14" fill="#FFFFFF">Start</text>
+
+  <!-- Hero Section -->
+  <rect x="0" y="60" width="1200" height="500" fill="#0D0D15"/>
+  <circle cx="600" cy="270" r="180" fill="none" stroke="#2358E9" stroke-width="1" opacity="0.1"/>
+  <circle cx="600" cy="270" r="220" fill="none" stroke="#2358E9" stroke-width="1" opacity="0.05"/>
+  <circle cx="600" cy="270" r="260" fill="none" stroke="#2358E9" stroke-width="1" opacity="0.02"/>
+  
+  <text x="250" y="200" font-family="Arial" font-size="50" fill="#FFFFFF">The Composable</text>
+  <text x="250" y="260" font-family="Arial" font-size="50" fill="#2358E9">Experience</text>
+  <text x="250" y="320" font-family="Arial" font-size="50" fill="#FFFFFF">Platform</text>
+  
+  <text x="250" y="380" font-family="Arial" font-size="18" fill="#AAAAAA" width="500">Orchestrate customer and employee experiences with unmatched flexibility. Build with composable services, integrate with any vendor, adapt at speed.</text>
+  
+  <rect x="250" y="420" width="160" height="45" rx="22.5" fill="#2358E9"/>
+  <text x="290" y="450" font-family="Arial" font-size="18" fill="#FFFFFF">Get Started</text>
+  
+  <rect x="430" y="420" width="160" height="45" rx="22.5" fill="none" stroke="#666666"/>
+  <text x="460" y="450" font-family="Arial" font-size="18" fill="#FFFFFF">Demo</text>
+  
+  <!-- Partner Logos -->
+  <rect x="150" y="520" width="900" height="100" fill="none"/>
+  <text x="150" y="540" font-family="Arial" font-size="14" fill="#666666">TRUSTED BY INDUSTRY LEADERS</text>
+  <!-- Placeholder for logos -->
+  <rect x="150" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  <rect x="250" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  <rect x="350" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  <rect x="450" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  <rect x="550" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  <rect x="650" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  <rect x="750" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  <rect x="850" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  <rect x="950" y="560" width="80" height="30" fill="#333333" rx="5"/>
+  
+  <!-- Platform Pillars Section -->
+  <text x="150" y="680" font-family="Arial" font-size="36" fill="#FFFFFF">Platform Pillars</text>
+  <text x="150" y="720" font-family="Arial" font-size="18" fill="#AAAAAA" width="700">Four composable layers working together to create seamless experiences.</text>
+  
+  <!-- Platform Tabs -->
+  <rect x="150" y="750" width="900" height="50" fill="#1D1D28" rx="6"/>
+  <rect x="150" y="750" width="225" height="50" fill="#2358E9" rx="6"/>
+  <text x="217" y="782" font-family="Arial" font-size="16" fill="#FFFFFF">Applications</text>
+  <text x="397" y="782" font-family="Arial" font-size="16" fill="#AAAAAA">Marketplace</text>
+  <text x="577" y="782" font-family="Arial" font-size="16" fill="#AAAAAA">Ecosystem</text>
+  <text x="757" y="782" font-family="Arial" font-size="16" fill="#AAAAAA">Development</text>
+  
+  <!-- Platform Card Section -->
+  <rect x="150" y="820" width="900" height="400" fill="#1D1D28" rx="8"/>
+  
+  <!-- Card Content -->
+  <text x="180" y="870" font-family="Arial" font-size="26" fill="#FFFFFF">Applications for Engagement</text>
+  <text x="180" y="910" font-family="Arial" font-size="16" fill="#AAAAAA" width="840">Connect and engage customers and employees across channels with AI-powered applications designed for seamless experiences.</text>
+  
+  <!-- Feature Cards -->
+  <rect x="180" y="950" width="260" height="180" fill="#282835" rx="8"/>
+  <text x="210" y="990" font-family="Arial" font-size="18" fill="#FFFFFF">Digital Channels</text>
+  <text x="210" y="1020" font-family="Arial" font-size="14" fill="#AAAAAA" width="200">Web, mobile, messaging, and social engagement.</text>
+  <circle cx="210" cy="1060" r="20" fill="#2358E9" opacity="0.2"/>
+  <text x="204" y="1066" font-family="Arial" font-size="18" fill="#2358E9">→</text>
+  
+  <rect x="460" y="950" width="260" height="180" fill="#282835" rx="8"/>
+  <text x="490" y="990" font-family="Arial" font-size="18" fill="#FFFFFF">Voice Services</text>
+  <text x="490" y="1020" font-family="Arial" font-size="14" fill="#AAAAAA" width="200">Intelligent routing, voice bots, and omnichannel voice.</text>
+  <circle cx="490" cy="1060" r="20" fill="#2358E9" opacity="0.2"/>
+  <text x="484" y="1066" font-family="Arial" font-size="18" fill="#2358E9">→</text>
+  
+  <rect x="740" y="950" width="260" height="180" fill="#282835" rx="8"/>
+  <text x="770" y="990" font-family="Arial" font-size="18" fill="#FFFFFF">AI Capabilities</text>
+  <text x="770" y="1020" font-family="Arial" font-size="14" fill="#AAAAAA" width="200">Agent copilot, predictive routing, and knowledge automation.</text>
+  <circle cx="770" cy="1060" r="20" fill="#2358E9" opacity="0.2"/>
+  <text x="764" y="1066" font-family="Arial" font-size="18" fill="#2358E9">→</text>
+  
+  <!-- Integration Metrics -->
+  <text x="150" y="1300" font-family="Arial" font-size="36" fill="#FFFFFF">Unmatched integration capabilities</text>
+  <text x="150" y="1340" font-family="Arial" font-size="18" fill="#AAAAAA" width="700">Connect to any system. Orchestrate any experience. Build without limits.</text>
+  
+  <!-- Metrics Cards -->
+  <rect x="150" y="1380" width="280" height="200" fill="#1D1D28" rx="8"/>
+  <text x="180" y="1440" font-family="Arial" font-size="38" fill="#2358E9">600+</text>
+  <text x="180" y="1480" font-family="Arial" font-size="18" fill="#FFFFFF">Marketplace Apps</text>
+  <text x="180" y="1510" font-family="Arial" font-size="14" fill="#AAAAAA" width="240">Pre-built integrations and apps to extend your platform.</text>
+  
+  <rect x="460" y="1380" width="280" height="200" fill="#1D1D28" rx="8"/>
+  <text x="490" y="1440" font-family="Arial" font-size="38" fill="#2358E9">12+</text>
+  <text x="490" y="1480" font-family="Arial" font-size="18" fill="#FFFFFF">Major Vendors</text>
+  <text x="490" y="1510" font-family="Arial" font-size="14" fill="#AAAAAA" width="240">Deep integration with all leading CX vendors.</text>
+  
+  <rect x="770" y="1380" width="280" height="200" fill="#1D1D28" rx="8"/>
+  <text x="800" y="1440" font-family="Arial" font-size="38" fill="#2358E9">1000+</text>
+  <text x="800" y="1480" font-family="Arial" font-size="18" fill="#FFFFFF">APIs & Services</text>
+  <text x="800" y="1510" font-family="Arial" font-size="14" fill="#AAAAAA" width="240">Open, composable APIs for unlimited customization.</text>
+  
+  <!-- Vendor Ecosystem Section -->
+  <text x="150" y="1650" font-family="Arial" font-size="36" fill="#FFFFFF">Connected vendor ecosystem</text>
+  <text x="150" y="1690" font-family="Arial" font-size="18" fill="#AAAAAA" width="700">Seamlessly integrate with the tools you already use. No vendor lock-in.</text>
+  
+  <!-- Vendor Cards -->
+  <rect x="150" y="1730" width="280" height="220" fill="#282835" rx="8"/>
+  <circle cx="290" cy="1800" r="50" fill="#1D1D28"/>
+  <text x="180" y="1880" font-family="Arial" font-size="18" fill="#FFFFFF">Salesforce</text>
+  <text x="180" y="1910" font-family="Arial" font-size="14" fill="#AAAAAA" width="240">Bi-directional sync with real-time data orchestration.</text>
+  
+  <rect x="460" y="1730" width="280" height="220" fill="#282835" rx="8"/>
+  <circle cx="600" cy="1800" r="50" fill="#1D1D28"/>
+  <text x="490" y="1880" font-family="Arial" font-size="18" fill="#FFFFFF">Microsoft</text>
+  <text x="490" y="1910" font-family="Arial" font-size="14" fill="#AAAAAA" width="240">Teams, Dynamics, and Azure seamless integration.</text>
+  
+  <rect x="770" y="1730" width="280" height="220" fill="#282835" rx="8"/>
+  <circle cx="910" cy="1800" r="50" fill="#1D1D28"/>
+  <text x="800" y="1880" font-family="Arial" font-size="18" fill="#FFFFFF">AWS</text>
+  <text x="800" y="1910" font-family="Arial" font-size="14" fill="#AAAAAA" width="240">Cloud-native integration with AWS services.</text>
+  
+  <rect x="460" y="1970" width="280" height="50" fill="#2358E9" rx="25"/>
+  <text x="550" y="2000" font-family="Arial" font-size="16" fill="#FFFFFF">View All Vendors</text>
+  
+  <!-- Developer Platform Section -->
+  <text x="150" y="2100" font-family="Arial" font-size="36" fill="#FFFFFF">Developer platform</text>
+  <text x="150" y="2140" font-family="Arial" font-size="18" fill="#AAAAAA" width="700">Build, extend, and customize with powerful APIs and developer tools.</text>
+  
+  <!-- Code Section -->
+  <rect x="150" y="2180" width="900" height="300" fill="#1D1D28" rx="8"/>
+  <rect x="180" y="2220" width="840" height="220" fill="#282835" rx="6"/>
+  <text x="200" y="2250" font-family="Arial" font-size="14" fill="#5D889E">// Initialize connection to cXentral Hub API</text>
+  <text x="200" y="2280" font-family="Arial" font-size="14" fill="#E4CF57">const</text>
+  <text x="240" y="2280" font-family="Arial" font-size="14" fill="#89DDFF">cXentralClient = new</text>
+  <text x="390" y="2280" font-family="Arial" font-size="14" fill="#82AAFF">CXentralClient</text>
+  <text x="510" y="2280" font-family="Arial" font-size="14" fill="#89DDFF">({</text>
+  <text x="200" y="2310" font-family="Arial" font-size="14" fill="#9EBBCE">  apiKey: </text>
+  <text x="280" y="2310" font-family="Arial" font-size="14" fill="#C3E88D">'your_api_key'</text>
+  <text x="400" y="2310" font-family="Arial" font-size="14" fill="#89DDFF">,</text>
+  <text x="200" y="2340" font-family="Arial" font-size="14" fill="#9EBBCE">  environment: </text>
+  <text x="300" y="2340" font-family="Arial" font-size="14" fill="#C3E88D">'production'</text>
+  <text x="200" y="2370" font-family="Arial" font-size="14" fill="#89DDFF">});</text>
+  <text x="200" y="2400" font-family="Arial" font-size="14" fill="#676E95">// Create a composable workflow</text>
+  
+  <rect x="600" y="2500" width="200" height="45" rx="22.5" fill="#2358E9"/>
+  <text x="645" y="2530" font-family="Arial" font-size="16" fill="#FFFFFF">Explore APIs</text>
+  
+  <!-- Final CTA Section -->
+  <rect x="0" y="2550" width="1200" height="250" fill="#1D1D28"/>
+  <text x="350" y="2630" font-family="Arial" font-size="36" fill="#FFFFFF">Ready to get started?</text>
+  <rect x="400" y="2680" width="180" height="50" rx="25" fill="#2358E9"/>
+  <text x="444" y="2712" font-family="Arial" font-size="16" fill="#FFFFFF">Start Trial</text>
+  <rect x="600" y="2680" width="180" height="50" rx="25" fill="none" stroke="#666666"/>
+  <text x="636" y="2712" font-family="Arial" font-size="16" fill="#FFFFFF">Contact Sales</text>
+</svg>
